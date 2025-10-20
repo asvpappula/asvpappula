@@ -53,5 +53,3 @@ I build **AI tools** and **web apps** that make work faster, smarter, and simple
 🌎 **Portfolio:** [profile-tau-lac.vercel.app](https://profile-tau-lac.vercel.app)  
 
 ---
-
-✨ Build. Iterate. Improve. Repeat. ⚡
